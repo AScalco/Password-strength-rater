@@ -4,7 +4,7 @@ A Python exercise: write a program that evaluates the strength of a password.
 ### Credits
 The following exercise was originally proposed by Dr. Christie Lee from the Robert Gordon University during the Aberdeen Python User Group MeetUp of February 2020. The Jupyter Notebook contains my solution to the problem.
 
- ## Password Strength Rater (by Dr. C. Lee)
+ ## Password Strength Rater
   
   In this puzzle we will build a password strength rater. The exercise is split into steps, with some links to tips which will be useful if you are just getting started!
   
